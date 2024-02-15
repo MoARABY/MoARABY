@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 <p>
-👋 Hello World! I'm <strong>Mohamed Araby</strong>, a passionate computer science student, dot net developer, and advocate for collaborative coding communities. 🚀
+A passionate computer science student, dot net developer, and advocate for collaborative coding communities. 🚀
 
 🎓 I graduated from Information Technology School with a diploma degree in Computer Systems, where I honed my skills and ignited my curiosity for technology.
 
