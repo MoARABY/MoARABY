@@ -104,7 +104,7 @@ Skills:
   <a href="#"> <img src="https://img.shields.io/badge/ASP.NET-%20?style=for-the-badge&logo=asp.net&logoColor=white" width="70"> </a>
      <br/>
    <a href="#"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="70"> </a>                                  
-	<a href="#"> <img src="https://img.shields.io/badge/SQL%20Server-%20-blue?logo=microsoft-sql-server" width="70"> </a>
+	<a href="#"> <img src="https://img.shields.io/badge/SQL%20Server-%20-%23E34F26.svg?logo=microsoft-sql-server" width="70"> </a>
 	<br/>
 </p>
 <!--
@@ -114,17 +114,6 @@ Skills:
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 </p>
-
-<!--
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HamzaHassanain&theme=radical&row=1" alt="Trophy" />
-  </a>
-</p>
-
--->
