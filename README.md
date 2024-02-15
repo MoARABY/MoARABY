@@ -99,7 +99,7 @@ Skills:
  &emsp;
   <a href="#"> <img alt="C#" src="https://img.shields.io/badge/c%23-%23E34F26.svg?style=plastic&logo=CSHARP&logoColor=white" width="70"> </a>
    &emsp;
-	<a href="#"> <img src="https://img.shields.io/badge/Visual%20Basic-%20-blue?logo=visual-studio" width="70"> </a>
+	<a href="#"> <img src="https://img.shields.io/badge/Visual%20Basic-%20?style=for-the-badge&logo=asp.net&logoColor=white" width="70"> </a>
    &emsp;
   <a href="#"> <img src="https://img.shields.io/badge/ASP.NET-%20?style=for-the-badge&logo=asp.net&logoColor=white" width="70"> </a>
      <br/>
