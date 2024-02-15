@@ -1,4 +1,3 @@
-![Header](header.png)
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
@@ -127,27 +126,6 @@ Skills:
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
-
-<br>
-
----
-
-<br>
-
-### :fire: My Stats :
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaHassanain&layout=compact&theme=radical&card_width=200px" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaHassanain&show_icons=true&theme=radical&card_width=250px" alt="HamzaHassanain's GitHub stats" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaHassanain&theme=radical&card_width=520px" alt="GitHub Streak" />
-  </a>
 </p>
 
 <!--
