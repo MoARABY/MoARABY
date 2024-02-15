@@ -58,11 +58,11 @@ Skills:
 <p align="center">  
   &emsp;
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23E34F26.svg?style=plastic&logo=CSHARP&logoColor=black">
+    <img alt="C#" src="https://img.shields.io/badge/c%23-%23E34F26.svg?style=plastic&logo=CSHARP&logoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23007396.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23007396.svg?style=plastic&logo=javascript&logoColor=white">
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
