@@ -4,9 +4,19 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 <p>
-Enthusiastic and driven, I am an aspiring Back-End Developer, Computer Science student, and competitive programmer fueled by an insatiable passion for continuous learning and exploring diverse technologies. My journey has been marked by a commitment to excellence, strong problem-solving skills, and an eagerness to contribute meaningfully to cutting-edge projects.
+👋 Hello World! I'm Mohamed Araby, a passionate computer science student, dot net developer, and advocate for collaborative coding communities. 🚀
 
-Currently seeking an internship opportunity to apply and enhance my technical expertise while actively contributing to innovative software development projects. My diverse skill set, and strong foundation in computer science, make me a valuable asset for any team or project. Let's connect and explore opportunities for collaboration and growth!
+🎓 I graduated from Information Technology School with a diploma degree in Computer Systems, where I honed my skills and ignited my curiosity for technology.
+
+📚 Currently, I'm pursuing my academic journey as a Computer Science student at the Faculty of Computers and Information at Suez Canal University, where I'm delving deeper into the realm of computer science and expanding my knowledge horizons.
+
+💻 By day, I'm a dedicated dot net developer at Powersoft Company, where I bring ideas to life through innovative software solutions and embrace the challenges of the ever-evolving tech landscape.
+
+🌐 Outside of my professional endeavors, I serve as the General Secretary at "Devs Community," a vibrant hub where like-minded individuals come together to share insights, collaborate on projects, and foster a culture of continuous learning and growth.
+
+🌟 My GitHub is my creative playground, where I showcase my projects, contribute to open-source initiatives, and connect with fellow developers from around the globe.
+
+🔍 Let's connect and code the future together! Reach out to me here or find me on LinkedIn [Insert Your LinkedIn Profile Link] to collaborate on exciting projects or share ideas. Together, we can make an impact, one line of code at a time. 🌈
 
 Skills:
 
