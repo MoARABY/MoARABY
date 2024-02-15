@@ -87,7 +87,7 @@ Skills:
    </a>
 	  &emsp;
   <a href="https://getbootstrap.com/" target="_blank"> 
-     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23F7DF1E.svg?style=plastic&logo=bootstrap&logoColor=black">
+     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%231572B6.svg?style=plastic&logo=bootstrap&logoColor=black">
    </a>
 </p>
 
