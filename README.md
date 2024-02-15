@@ -92,16 +92,14 @@ Skills:
 </p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Backend Development
-<!--
+
 <p align="center">
 &emsp;
  <a href="#"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="70"> </a>
  &emsp;
-  <a href="#"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="70"> </a>
+  <a href="#"> <<img alt="C#" src="https://img.shields.io/badge/c%23-%23E34F26.svg?style=plastic&logo=CSHARP&logoColor=white">" width="70"> </a>
    &emsp;
-  <a href="#"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width="70"> </a>
-  &emsp;
-  <a href="#"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="70"> </a>
+  <a href="#"> <img src="https://img.shields.io/badge/ASP.NET-%20?style=for-the-badge&logo=asp.net&logoColor=white" width="70"> </a>
      <br/>
    <a href="#"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="70"> </a>                                  
    <a href="#"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="70"> </a>
@@ -110,7 +108,6 @@ Skills:
 	<br/>
     <a href="#"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="70"> </a>
 </p>
--->
 <!--
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%> Operating Systems
 
