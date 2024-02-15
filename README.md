@@ -58,7 +58,7 @@ Skills:
 <p align="center"> 
   &emsp;
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70"  height="50"> 
 </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -87,7 +87,7 @@ Skills:
    </a>
 	  &emsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg width="70"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg  width="70" > 
   </a>
 </p>
 
@@ -98,13 +98,13 @@ Skills:
  <a href="#"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="70"> </a>
  &emsp;
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="50"> 
 </a>
    &emsp;
 	<a href="#"> <img src="https://img.shields.io/badge/Visual%20Basic-%20?style=for-the-badge&logo=asp.net&logoColor=white" width="70"> </a>
    &emsp;
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="70"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="70" height="50"/> 
 </a>
      <br/>
 	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="50"/> </a> 
