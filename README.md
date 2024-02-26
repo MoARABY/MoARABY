@@ -109,7 +109,8 @@ Skills:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="70" height="50"/> 
 </a>
      <br/>
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)                             
+   &emsp;
+	<a href="#"> <img src="https://img.shields.io/badge/sql-server%20?style=for-the-badge&logo=sqlserver&logoColor=white" width="70"> </a>                         
 	<br/>
 </p>
 <!--
