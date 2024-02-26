@@ -103,11 +103,11 @@ Skills:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="50"> 
 </a>
    &emsp;
-	<a href="#"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" width="70"> </a>
+	<a href="#"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" width="60" height="20"> </a>
    &emsp;
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="70" height="50"/> 
-</a>
+</a> -->
      <br/>
    &emsp;
 	<a href="#"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" width="80" height="20" </a>
