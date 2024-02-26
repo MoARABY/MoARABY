@@ -3,6 +3,9 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 <p>
+	<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=DotNet Dev;Database Dev;WFA Dev;" />
+</h1>
 A passionate computer science student, dot net developer, and advocate for collaborative coding communities. 🚀
 
 🎓 I graduated from Information Technology School with a diploma degree in Computer Systems, where I honed my skills and ignited my curiosity for technology.
