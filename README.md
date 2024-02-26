@@ -89,7 +89,7 @@ Skills:
    </a>
 	  &emsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  width="80" height="25" > 
+	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  width="80" height="20" > 
   </a>
 </p>
 
@@ -110,7 +110,7 @@ Skills:
 </a>
      <br/>
    &emsp;
-	<a href="#"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" width="70"> </a>
+	<a href="#"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" width="80" height="20" </a>
 	<br/>
 </p>
 <!--
