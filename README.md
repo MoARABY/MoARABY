@@ -17,7 +17,7 @@ A passionate computer science student, dot net developer, and advocate for colla
 
 🌟 My GitHub is my creative playground, where I showcase my projects, contribute to open-source initiatives, and connect with fellow developers from around the globe.
 
-🔍 Let's connect and code the future together! Reach out to me here or find me on LinkedIn https://www.linkedin.com/in/mohamed-araby-ma7/ to collaborate on exciting projects or share ideas. Together, we can make an impact, one line of code at a time. 🌈
+🔍 Let's connect and code the future together! Reach out to me here or find me on LinkedIn https://www.linkedin.com/in/mohamed-araby-ma7/ to collaborate on exciting projects or share ideas. Together, we can make an impact, one line of code at a time. 
 
 Skills:
 
