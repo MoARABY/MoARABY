@@ -104,11 +104,11 @@ Skills:
 </a>
    &emsp;
 	  <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://dotnet.microsoft.com/en-us/apps/aspnet)" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/.NET%20-5C2D91.svg?style=plastic&logo=.net&logoColor=white">
+     <img alt="JavaScript" src="https://img.shields.io/badge/.NET%20-5C2D91.svg?style=plastic&logo=dot net&logoColor=white">
    </a>
   &emsp;
-	<a href="#"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" width="60" height="20"> </a>
-   &emsp;
+<!-- 	<a href="#"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" width="60" height="20"> </a>
+   &emsp; -->
 <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="70" height="50"/> 
 </a> -->
