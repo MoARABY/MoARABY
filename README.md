@@ -114,6 +114,10 @@ Skills:
 </a> -->
      <br/>
    &emsp;
+		  <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/Microsoft_SQL_Serve%20-CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
+   </a>
+  &emsp;
 	<a href="#"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" width="80" height="20" </a>
 	<br/>
 		
