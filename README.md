@@ -99,23 +99,22 @@ Skills:
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
+	  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="csharp" src="https://img.shields.io/badge/csharp%20-%5C2D91.svg?style=plastic&logo=csharp&logoColor=white">
+   </a>
+  &emsp;
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="50"> 
 </a>
    &emsp;
 	  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/.NET%20-5C2D91.svg?style=plastic&logo=dotnet&logoColor=white">
+     <img alt="dotnet" src="https://img.shields.io/badge/.NET%20-5C2D91.svg?style=plastic&logo=dotnet&logoColor=white">
    </a>
   &emsp;
-<!-- 	<a href="#"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" width="60" height="20"> </a>
-   &emsp; -->
-<!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="70" height="50"/> 
-</a> -->
      <br/>
    &emsp;
 		  <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/Microsoft_SQL_Serve%20-CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
+     <img alt="Microsoft_SQL_Server" src="https://img.shields.io/badge/Microsoft_SQL_Server%20-CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
    </a>
 	<br/>
 		
