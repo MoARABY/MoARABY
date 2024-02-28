@@ -111,6 +111,7 @@ Skills:
    &emsp;
 	<a href="#"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" width="80" height="20" </a>
 	<br/>
+		
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Operating Systems
 
 <p align="center">
@@ -118,8 +119,6 @@ Skills:
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-</p>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moaraby&show_icons=true&locale=en&layout=compact" alt="moaraby" /></p>
 
