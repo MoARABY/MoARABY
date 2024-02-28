@@ -20,13 +20,13 @@ A passionate computer science student, dot net developer, and advocate for colla
 
 Skills:
 
-<strong> Programming Languages</strong>: HTML, CSS, JavaScript, C#, Vb.net, SQL
+<strong> Programming Languages</strong>: C#, C++, Java, JavaScript,  Vb.net, SQL, HTML, CSS
 
-<strong>Frameworks and Databases</strong>: Asp.net Api, Asp.net Mvc, SqlServer, Crystal Reports
+<strong>Frameworks and Databases</strong>: Asp.net Api, Asp.net Mvc, SqlServer, Bootstrap, Crystal Reports
 
 <strong>Programming Concepts</strong>: OOP, Data Structures, SOLID Design Principles, REST API
 
-<strong>Tools</strong>: Git, GitHub
+<strong>Tools</strong>: Git, GitHub, Netlify
 
 <strong>Personal Skills</strong>: Research, Leadership, Team Working, Fast Learning, Adaptability, Time management,   and Organizing
 
