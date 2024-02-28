@@ -58,7 +58,7 @@ Skills:
 <p align="center"> 
   &emsp;
 	  <a href="https://www.w3schools.com/cs" target="_blank"> 
-     <img alt="csharp" src="https://img.shields.io/badge/csharp%20-%5C2D91.svg?style=plastic&logo=csharp&logoColor=white">
+     <img alt="csharp" src="https://img.shields.io/badge/csharp%20-5C2D91.svg?style=plastic&logo=csharp&logoColor=white">
    </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -66,7 +66,7 @@ Skills:
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Vb-%23007396.svg?style=plastic&logo=Vb&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Visual_basic-%23007396.svg?style=plastic&logo=Vb&logoColor=white">
   </a>
 </p>
 
@@ -87,12 +87,8 @@ Skills:
    </a>
 	  &emsp;
 	  <a href="https://getbootstrap.com" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/Bootstrap%20-%563D7C.svg?style=plastic&logo=Bootstrap&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/Bootstrap%20-563D7C.svg?style=plastic&logo=Bootstrap&logoColor=white">
   </a>  
-	
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  width="80" height="20" > 
-  </a>
 </p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Backend Development
@@ -104,7 +100,7 @@ Skills:
    </a>
   &emsp;
 	  <a href="https://www.w3schools.com/cs" target="_blank"> 
-     <img alt="csharp" src="https://img.shields.io/badge/csharp%20-%5C2D91.svg?style=plastic&logo=csharp&logoColor=white">
+     <img alt="csharp" src="https://img.shields.io/badge/csharp%20-5C2D91.svg?style=plastic&logo=csharp&logoColor=white">
    </a>
    &emsp;
 	  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> 
