@@ -1,7 +1,7 @@
 ![Header](Header.png)
 
 <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
-<a href="https://git.io/typing-svg"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Typing SVG" width="100" height="100" /></a>
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 <p>
