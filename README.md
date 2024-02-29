@@ -112,6 +112,7 @@ Skills:
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
+![snake gif](https://github.com/MoARABY/MoARABY/blob/output/github-contribution-grid-snake.gif)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moaraby&show_icons=true&locale=en&layout=compact" alt="moaraby" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moaraby&" alt="moaraby" /></p>
