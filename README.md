@@ -113,6 +113,21 @@ Skills:
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 ![snake gif](https://github.com/MoARABY/MoARABY/blob/output/github-contribution-grid-snake.gif)
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoARABY&layout=compact&theme=radical&card_width=200px" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoARABY&show_icons=true&theme=radical&card_width=250px" alt="MoARABY's GitHub stats" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoARABY&theme=radical&card_width=520px" alt="GitHub Streak" />
+  </a>
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moaraby&show_icons=true&locale=en&layout=compact" alt="moaraby" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moaraby&" alt="moaraby" /></p>
