@@ -100,10 +100,16 @@ Skills:
 	  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> 
      <img alt="dotnet" src="https://img.shields.io/badge/.NET%20-5C2D91.svg?style=plastic&logo=dotnet&logoColor=white">
    </a>
+	  <a href="#"> 
+		<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="70"> 
+	  </a>
      <br/>
 		  <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> 
      <img alt="Microsoft_SQL_Server" src="https://img.shields.io/badge/Microsoft_SQL_Server%20-CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
    </a>
+	<a href="#"> 
+		<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="70">
+	</a>
 	<br/>
 		
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%> Operating Systems
