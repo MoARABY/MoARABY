@@ -133,8 +133,8 @@ Skills:
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-	  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoARABY&theme=radical&card_width=520px" alt="GitHub Streak" /> -->
+<!-- 	  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoARABY&theme=radical&card_width=520px" alt="GitHub Streak" />
   </a>
 </p>
 
