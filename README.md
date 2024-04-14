@@ -21,16 +21,15 @@ Skills:
 
 <strong> Programming Languages</strong>: C#, C++, Java, JavaScript,  Vb.net, SQL, HTML, CSS
 
-<strong>Frameworks and Databases</strong>: Asp.net Api, Asp.net Mvc, SqlServer, Bootstrap, Crystal Reports
+<strong>Frameworks and Databases</strong>: NodeJS, ExpressJS, Asp.net Mvc, SqlServer, MongoDB, Bootstrap, Crystal Reports
 
 <strong>Programming Concepts</strong>: OOP, Data Structures, SOLID Design Principles, REST API
 
-<strong>Tools</strong>: Git, GitHub, Netlify
+<strong>Tools</strong>: Git, GitHub, Netlify, Render
 
 <strong>Personal Skills</strong>: Research, Leadership, Team Working, Fast Learning, Adaptability, Time management,   and Organizing
 
 <strong>Operating Systems</strong>: Windows, Linux
-
 <br>
 
 </p>
