@@ -11,11 +11,7 @@ A passionate computer science student, dot net developer, and advocate for colla
 
 💻 By day, I'm a dedicated dot net developer at Powersoft Company, where I bring ideas to life through innovative software solutions and embrace the challenges of the ever-evolving tech landscape.
 
-🌐 Outside of my professional endeavors, I serve as the General Secretary at "Devs Community," a vibrant hub where like-minded individuals come together to share insights, collaborate on projects, and foster a culture of continuous learning and growth.
-
-🌟 My GitHub is my creative playground, where I showcase my projects, contribute to open-source initiatives, and connect with fellow developers from around the globe.
-
-🔍 Let's connect and code the future together! Reach out to me here or find me on LinkedIn https://www.linkedin.com/in/mohamed-araby-ma7/ to collaborate on exciting projects or share ideas. Together, we can make an impact, one line of code at a time. 
+🌐 Outside of my professional endeavors, I serve as the General Secretary at "Devs Community," a vibrant hub where like-minded individuals come together to share insights, collaborate on projects, and foster a culture of continuous 
 
 Skills:
 
