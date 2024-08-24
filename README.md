@@ -13,20 +13,6 @@ A passionate computer science student, dot net developer, and advocate for colla
 
 🌐 Outside of my professional endeavors, I serve as the General Secretary at "Devs Community," a vibrant hub where like-minded individuals come together to share insights, collaborate on projects, and foster a culture of continuous 
 
-Skills:
-
-<strong> Programming Languages</strong>: C#, C++, Java, JavaScript,  Vb.net, SQL, HTML, CSS
-
-<strong>Frameworks and Databases</strong>: NodeJS, ExpressJS, Asp.net Mvc, SqlServer, MongoDB, Bootstrap, Crystal Reports
-
-<strong>Programming Concepts</strong>: OOP, Data Structures, SOLID Design Principles, REST API
-
-<strong>Tools</strong>: Git, GitHub, Netlify, Render
-
-<strong>Personal Skills</strong>: Research, Leadership, Team Working, Fast Learning, Adaptability, Time management,   and Organizing
-
-<strong>Operating Systems</strong>: Windows, Linux
-<br>
 
 </p>
 <br>
