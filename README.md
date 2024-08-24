@@ -41,6 +41,9 @@ A passionate computer science student, dot net developer, and advocate for colla
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Visual_basic-%23007396.svg?style=plastic&logo=Vb&logoColor=white">
   </a>
+	   <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Typescript-%23007396.svg?style=plastic&logo=Typescript&logoColor=white">
+  </a>
 	 <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
