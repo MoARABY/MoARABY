@@ -5,13 +5,6 @@
 <p>
 A passionate computer science student, dot net developer, and advocate for collaborative coding communities. 🚀
 
-🎓 I graduated from Information Technology School with a diploma degree in Computer Systems, where I honed my skills and ignited my curiosity for technology.
-
-📚 Currently, I'm pursuing my academic journey as a Computer Science student at the Faculty of Computers and Information at Suez Canal University, where I'm delving deeper into the realm of computer science and expanding my knowledge horizons.
-
-💻 By day, I'm a dedicated dot net developer at Powersoft Company, where I bring ideas to life through innovative software solutions and embrace the challenges of the ever-evolving tech landscape.
-
-🌐 Outside of my professional endeavors, I serve as the General Secretary at "Devs Community," a vibrant hub where like-minded individuals come together to share insights, collaborate on projects, and foster a culture of continuous 
 
 
 </p>
