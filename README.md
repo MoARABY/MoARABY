@@ -71,6 +71,9 @@ A passionate computer science student, dot net developer, and advocate for colla
 	  <a href="#"> 
 		<img src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white" width="70"> 
 	  </a>
+<a href="#"> 
+	<img src="https://img.shields.io/badge/Express.js-43853D?style=plastic&logo=express.js&logoColor=white" width="70"> 
+</a>
      <br/>
 		  <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> 
      <img alt="Microsoft_SQL_Server" src="https://img.shields.io/badge/Microsoft_SQL_Server%20-CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
