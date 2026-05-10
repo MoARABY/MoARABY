@@ -55,11 +55,11 @@ app.get('/introduce-yourself', (req, res) => {
 
 ### 🚀 Frameworks and Databases
 
-[![My Skills](https://skillicons.dev/icons?i=express,nest,mysql,postgres,mongodb,supabase,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nest,mysql,postgres,mongodb,prisma,supabase,firebase)](https://skillicons.dev)
 
 ### 🛠️ Development Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,cloudflare,vercel,netlify,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm,cloudflare,vercel,netlify,aws,nption)](https://skillicons.dev)
 
 <img src="https://media1.tenor.com/m/8S_CuT8s2_oAAAAC/bruce-almighty-comedy.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
