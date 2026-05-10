@@ -191,21 +191,4 @@ I believe that learning by doing is the best path, and that's why I transform th
 <img src="https://github-profile-trophy.vercel.app?username=alin00r&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 
 </div>
-
-# ⚡ Fun fact
-
-**_The most important step of all is the first step. Start something._**
-
-**_Blake Mycoskie_**
-
-<hr>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
-
-
-
-
-
-
-
-
 <img src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width=100%>
