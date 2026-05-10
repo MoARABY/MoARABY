@@ -55,7 +55,7 @@ app.get('/introduce-yourself', (req, res) => {
 
 ### 🚀 Frameworks and Databases
 
-[![My Skills](https://skillicons.dev/icons?i=express,nest,mysql,postgres,mongodb,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nest,mysql,postgres,mongodb,cloudflare,bootstrap)](https://skillicons.dev)
 
 ### 🛠️ Development Tools
 
