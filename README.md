@@ -13,14 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MoARABY&show_icons=true&theme=radical&card_width=250px" alt="MoARABY's GitHub stats" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-<!-- 	  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoARABY&theme=radical&card_width=520px" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="align="center""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moaraby&theme=juicyfresh" alt="moaraby" /></a> </p>
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Araby</h1>
@@ -63,8 +55,14 @@ app.get('/introduce-yourself', (req, res) => {
 
 ## ⭐ GitHub Stats
 
-<a href="https://github.com/MoARABY">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MoARABY" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+<!-- 	  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoARABY&theme=radical&card_width=520px" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="align="center""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moaraby&theme=juicyfresh" alt="moaraby" /></a> </p>
 
 ## Technologies and languages 💻
 
