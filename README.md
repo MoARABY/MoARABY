@@ -62,8 +62,6 @@ app.get('/introduce-yourself', (req, res) => {
   </a>
 </p>
 
-<p align="align="center""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moaraby&theme=juicyfresh" alt="moaraby" /></a> </p>
-
 ## Technologies and languages 💻
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,ts,nodejs,c,cpp,py,java)](https://skillicons.dev)
@@ -109,10 +107,11 @@ I believe that learning by doing is the best path, and that's why I transform th
 
 <div align="center">
   
-  [![Ali Noor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoARABY&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Mohamed Araby's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoARABY&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://streak-stats.demolab.com?user=alin00r&locale=en&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
-<img src="https://github-profile-trophy.vercel.app?username=alin00r&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+<img src="https://streak-stats.demolab.com?user=MoARABY&locale=en&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+
+<p align="align="center""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moaraby&theme=juicyfresh" alt="moaraby" /></a> </p>
 
 </div>
 <img src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width=100%>
