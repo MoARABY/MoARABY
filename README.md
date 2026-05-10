@@ -77,7 +77,7 @@ I believe that learning by doing is the best path, and that's why I transform th
 </p>
 
 <p align="left">
-  Let's connect? Send me an email, follow me on LinkedIn, or check out my content on Instagram! 💌✨
+  Let's connect? Send me an email, follow me on LinkedIn! 💌✨
 </p>
 
 <p align="left">
