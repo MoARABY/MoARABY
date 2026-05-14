@@ -11,9 +11,9 @@
 ```javaScript
 app.get('/introduce-yourself', (req, res) => {
     const name = 'Mohamed Araby';
-    const acknowledgements = 'Software Engineer';
+    const occupation = 'Software Engineer';
     let location = 'Ismailia , Egypt || AnyWhere';
-    let background = ['JavaScript','TypeScript' 'Nodejs', 'Express Framework','Nest.Js','SQL','noSQL'];
+    let interests = ['JavaScript','TypeScript' 'Nodejs', 'Express Framework','Nest.Js','SQL','noSQL'];
     const introduction = `Hello, my name is ${name}. I am a ${occupation}
     and my interests include ${interests.join(', ')}.`;
     res.json({introduction});
